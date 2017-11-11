@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Ext by Telmonic :v
+// @name         Fast Feed E:v 
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  By Telmonic
-// @author       Telmonic
+// @description  By React
+// @author       React
 // @match        http://dual-agar.me/*
 // @match        http://agar.io/*
 // @match        http://dual-agar.online/*
@@ -12,7 +12,7 @@
 // @grant        none
 // ==/UserScript==
 
-// Suscribete a Telmonic:v
+// Suscribete a React :v
 
 ! function(c) {
     var host = "agar.io"; // Anti Moneyclip :V
