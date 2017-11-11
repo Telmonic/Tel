@@ -2,8 +2,8 @@
 // @name         Ext by Telmonic :v
 // @namespace    http://tampermonkey.net/
 // @version      0.2
-// @description  By React
-// @author       React
+// @description  By Telmonic
+// @author       Telmonic
 // @match        http://dual-agar.me/*
 // @match        http://agar.io/*
 // @match        http://dual-agar.online/*
